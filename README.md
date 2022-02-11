@@ -5,7 +5,7 @@
 - 📫 How to reach me ... Send a message over
 
 
-[![RexDeux's GitHub stats](https://github-readme-stats.vercel.app/api?username=RexDeux)](https://github.com/RexDeux/github-readme-stats)
+[![RexDeux's GitHub stats](https://github-readme-stats.vercel.app/api?hide_titleusername=RexDeux)](https://github.com/RexDeux/github-readme-stats)
 <!---
 RexDeux/RexDeux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
