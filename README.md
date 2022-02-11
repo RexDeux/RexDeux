@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RexDeux
 - 👀 I’m interested in learning , adapting and dwelling deeper
-- 🌱 I’m currently learning Ruby and HTML. Eventually will go into python and solidity
+- 🌱 Went first into Ruby next was python. And now for the final boss, Solidity
 - 💞️ I’m looking to collaborate on everything. Look into the abyss and let the abyss stare back
 - 📫 How to reach me ... Send a message over
 
