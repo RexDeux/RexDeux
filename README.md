@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Nuno and I'm a Ruby on Rails Developer @Kentra Tech
+- 👋 Hi, I’m Nuno and I'm a Ruby on Rails Developer @ITGest PT
 - 👀 I’m interested in learning , adapting and dwelling deeper
-- 🌱 Went first into Ruby next was python
 - 💞️ I’m looking to collaborate on everything. Look into the abyss and let the abyss stare back
 - 📫 How to reach me ... Send a message over
 
